@@ -1,0 +1,32 @@
+23:07:06-Dec-20-2022,ETL begun
+23:07:06-Dec-20-2022,Extracting
+23:07:06-Dec-20-2022,Extract complete
+23:07:06-Dec-20-2022,Transforming
+23:07:06-Dec-20-2022,Transform complete
+23:07:06-Dec-20-2022,Loading data
+23:07:06-Dec-20-2022,Load complete
+23:07:06-Dec-20-2022,ETL complete
+00:14:42-Dec-21-2022,ETL begun
+00:14:42-Dec-21-2022,Extracting
+00:14:42-Dec-21-2022,Extract complete
+00:14:42-Dec-21-2022,Transforming
+00:14:42-Dec-21-2022,Transform complete
+00:14:42-Dec-21-2022,Loading data
+00:14:42-Dec-21-2022,Load complete
+00:14:42-Dec-21-2022,ETL complete
+00:15:39-Dec-21-2022,ETL begun
+00:15:39-Dec-21-2022,Extracting
+00:15:39-Dec-21-2022,Extract complete
+00:15:39-Dec-21-2022,Transforming
+00:15:39-Dec-21-2022,Transform complete
+00:15:39-Dec-21-2022,Loading data
+00:15:39-Dec-21-2022,Load complete
+00:15:39-Dec-21-2022,ETL complete
+00:17:47-Dec-21-2022,ETL begun
+00:17:47-Dec-21-2022,Extracting
+00:17:48-Dec-21-2022,Extract complete
+00:17:48-Dec-21-2022,Transforming
+00:17:48-Dec-21-2022,Transform complete
+00:17:48-Dec-21-2022,Loading data
+00:17:48-Dec-21-2022,Load complete
+00:17:48-Dec-21-2022,ETL complete
